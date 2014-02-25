@@ -34,8 +34,8 @@ Modified and fixed up by Nathan & Monica.
    if( !clock_cascade.load( face_cascade_name ) ){ printf("--(!)Error loading\n"); return -1; };
 
    //-- 2. Read the video stream
-   capture = cvCaptureFromCAM( 0 ); // may need to be -1 or a different number, not sure yet.
-   // Won't run on input 0 for some reason....Or it will... Who knows
+   capture = cvCaptureFromCAM( 1 ); // may need to be -1 or a different number, not sure yet.
+   // Sometimes won't reset to cam 0
    if( capture ){
      while( true ){
    frame = cvQueryFrame( capture );
@@ -62,7 +62,7 @@ void detectAndDisplay( Mat frame ){
   equalizeHist( frame_gray, frame_gray );
 
   //-- Detect the clocks!
-  clock_cascade.detectMultiScale( frame_gray, faces, 1.1, 2, 0|CV_HAAR_SCALE_IMAGE, Size(30, 30) );
+  clock_cascade.detectMultiScale( frame_gray, faces, 1.1, 2, 0|CV_HAAR_SCALE_IMAGE, Size(15, 15), Size(200, 200) );
 
   for( size_t i = 0; i < faces.size(); i++ )  {
     Point center( faces[i].x + faces[i].width*0.5, faces[i].y + faces[i].height*0.5 );
