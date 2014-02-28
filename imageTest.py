@@ -46,8 +46,11 @@ for idx,f in enumerate(onlyfiles):
 			#print cv2.rectangle(img, (x,y), (x+width, y+height), color, strokeWeight)
 			# display!
 			#cv2.imshow(windowName, img)
-		outputText.write('{0}{1}'.format(f,':\n'))
-		outputText.write('{0}{1}'.format(fileResults,':\n'))
+		outputText.write('{0} - Dected Clock{1}'.format(f,':\n'))
+		outputText.write('{0}{1}'.format(fileResults,'\n'))
+	else:
+		outputText.write('{0} - No Clock{1}'.format(f,':\n'))
+		
 outputText.close()
 
 	

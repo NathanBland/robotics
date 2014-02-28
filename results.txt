@@ -1,0 +1,1618 @@
+negative288.bmp - No Clock:
+Pictures76.bmp - Dected Clock:
+['x:249,y:749 : w:35,h:35;']
+negative49.bmp - No Clock:
+negative4.bmp - No Clock:
+Pictures574.bmp - No Clock:
+Pictures197.bmp - No Clock:
+negative512.bmp - No Clock:
+Pictures593.bmp - Dected Clock:
+['x:572,y:479 : w:80,h:80;']
+Pictures435.bmp - No Clock:
+Pictures5.bmp - Dected Clock:
+['x:403,y:295 : w:69,h:69;']
+negative231.bmp - No Clock:
+Pictures541.bmp - Dected Clock:
+['x:485,y:827 : w:46,h:46;', 'x:624,y:1109 : w:57,h:57;']
+negative329.bmp - Dected Clock:
+['x:174,y:636 : w:55,h:55;']
+negative638.bmp - No Clock:
+negative545.bmp - No Clock:
+negative466.bmp - No Clock:
+negative326.bmp - Dected Clock:
+['x:205,y:630 : w:52,h:52;']
+Pictures537.bmp - No Clock:
+Pictures492.bmp - No Clock:
+Pictures164.bmp - No Clock:
+Pictures38.bmp - No Clock:
+Pictures520.bmp - No Clock:
+negative58.bmp - No Clock:
+negative527.bmp - No Clock:
+Pictures543.bmp - Dected Clock:
+['x:601,y:1089 : w:50,h:50;']
+negative125.bmp - No Clock:
+Pictures234.bmp - Dected Clock:
+['x:133,y:624 : w:41,h:41;']
+Pictures153.bmp - Dected Clock:
+['x:491,y:940 : w:34,h:34;']
+Pictures231.bmp - No Clock:
+negative395.bmp - No Clock:
+negative589.bmp - No Clock:
+negative25.bmp - No Clock:
+Pictures274.bmp - Dected Clock:
+['x:192,y:855 : w:41,h:41;']
+Pictures571.bmp - Dected Clock:
+['x:82,y:799 : w:56,h:56;']
+Pictures299.bmp - No Clock:
+negative361.bmp - No Clock:
+negative368.bmp - No Clock:
+Pictures406.bmp - Dected Clock:
+['x:348,y:231 : w:54,h:54;']
+Pictures102.bmp - No Clock:
+Pictures127.bmp - No Clock:
+Pictures228.bmp - No Clock:
+Pictures422.bmp - No Clock:
+negative307.bmp - No Clock:
+Pictures149.bmp - Dected Clock:
+['x:652,y:990 : w:60,h:60;', 'x:420,y:870 : w:187,h:187;']
+Pictures553.bmp - Dected Clock:
+['x:475,y:1087 : w:34,h:34;']
+Pictures171.bmp - No Clock:
+Pictures278.bmp - No Clock:
+Pictures40.bmp - No Clock:
+Pictures616.bmp - Dected Clock:
+['x:458,y:862 : w:41,h:41;']
+Pictures307.bmp - No Clock:
+Pictures311.bmp - No Clock:
+Pictures670.bmp - No Clock:
+negative181.bmp - No Clock:
+Pictures373.bmp - Dected Clock:
+['x:69,y:381 : w:34,h:34;', 'x:50,y:380 : w:41,h:41;']
+Pictures445.bmp - No Clock:
+negative428.bmp - No Clock:
+negative414.bmp - No Clock:
+Pictures457.bmp - Dected Clock:
+['x:26,y:860 : w:197,h:197;']
+Pictures632.bmp - Dected Clock:
+['x:229,y:274 : w:49,h:49;']
+negative372.bmp - No Clock:
+negative644.bmp - No Clock:
+negative534.bmp - No Clock:
+Pictures405.bmp - Dected Clock:
+['x:337,y:283 : w:45,h:45;', 'x:273,y:272 : w:55,h:55;']
+Pictures236.bmp - Dected Clock:
+['x:187,y:619 : w:38,h:38;']
+Pictures375.bmp - No Clock:
+negative306.bmp - No Clock:
+Pictures409.bmp - No Clock:
+Pictures191.bmp - No Clock:
+negative2.bmp - No Clock:
+Pictures275.bmp - Dected Clock:
+['x:218,y:878 : w:45,h:45;']
+negative199.bmp - No Clock:
+Pictures305.bmp - No Clock:
+Pictures20.bmp - No Clock:
+negative183.bmp - No Clock:
+Pictures552.bmp - Dected Clock:
+['x:577,y:1016 : w:35,h:35;']
+Pictures419.bmp - Dected Clock:
+['x:204,y:120 : w:71,h:71;']
+negative617.bmp - No Clock:
+negative169.bmp - No Clock:
+negative390.bmp - No Clock:
+Pictures408.bmp - No Clock:
+negative286.bmp - No Clock:
+Pictures156.bmp - No Clock:
+negative419.bmp - No Clock:
+Pictures504.bmp - No Clock:
+Pictures585.bmp - No Clock:
+Pictures8.bmp - No Clock:
+negative132.bmp - No Clock:
+Pictures181.bmp - No Clock:
+Pictures583.bmp - No Clock:
+Pictures154.bmp - No Clock:
+Pictures468.bmp - No Clock:
+Pictures452.bmp - No Clock:
+negative347.bmp - No Clock:
+negative165.bmp - No Clock:
+Pictures638.bmp - No Clock:
+Pictures28.bmp - No Clock:
+negative440.bmp - No Clock:
+negative641.bmp - No Clock:
+Pictures676.bmp - No Clock:
+Pictures67.bmp - No Clock:
+Pictures533.bmp - No Clock:
+negative335.bmp - No Clock:
+Pictures388.bmp - No Clock:
+Pictures251.bmp - No Clock:
+Pictures567.bmp - No Clock:
+negative380.bmp - No Clock:
+Pictures666.bmp - No Clock:
+negative198.bmp - No Clock:
+Pictures601.bmp - Dected Clock:
+['x:275,y:304 : w:135,h:135;']
+negative96.bmp - No Clock:
+negative221.bmp - No Clock:
+Pictures315.bmp - Dected Clock:
+['x:484,y:200 : w:88,h:88;']
+Pictures42.bmp - Dected Clock:
+['x:505,y:262 : w:46,h:46;']
+Pictures608.bmp - No Clock:
+Pictures529.bmp - No Clock:
+negative75.bmp - No Clock:
+Pictures64.bmp - Dected Clock:
+['x:382,y:174 : w:47,h:47;']
+Pictures592.bmp - Dected Clock:
+['x:491,y:581 : w:119,h:119;']
+negative43.bmp - No Clock:
+negative197.bmp - No Clock:
+negative608.bmp - No Clock:
+negative594.bmp - No Clock:
+Pictures188.bmp - Dected Clock:
+['x:504,y:298 : w:72,h:72;', 'x:556,y:1079 : w:123,h:123;']
+negative379.bmp - No Clock:
+Pictures407.bmp - No Clock:
+negative468.bmp - No Clock:
+negative528.bmp - No Clock:
+Pictures474.bmp - Dected Clock:
+['x:85,y:846 : w:190,h:190;']
+negative387.bmp - No Clock:
+negative423.bmp - No Clock:
+Pictures487.bmp - No Clock:
+positive.txt.bak - No Clock:
+negative566.bmp - No Clock:
+Pictures652.bmp - No Clock:
+Pictures645.bmp - No Clock:
+Pictures654.bmp - No Clock:
+negative439.bmp - No Clock:
+negative554.bmp - No Clock:
+negative499.bmp - No Clock:
+negative134.bmp - No Clock:
+Pictures151.bmp - Dected Clock:
+['x:369,y:933 : w:77,h:77;', 'x:407,y:933 : w:234,h:234;']
+negative119.bmp - No Clock:
+negative467.bmp - No Clock:
+Pictures77.bmp - No Clock:
+Pictures48.bmp - No Clock:
+negative258.bmp - No Clock:
+negative263.bmp - No Clock:
+negative31.bmp - No Clock:
+negative104.bmp - No Clock:
+negative253.bmp - No Clock:
+Pictures6.bmp - No Clock:
+negative190.bmp - No Clock:
+Pictures162.bmp - Dected Clock:
+['x:522,y:875 : w:142,h:142;']
+negative140.bmp - No Clock:
+negative240.bmp - No Clock:
+negative70.bmp - No Clock:
+Pictures517.bmp - No Clock:
+negative575.bmp - No Clock:
+negative277.bmp - No Clock:
+Pictures442.bmp - No Clock:
+negative582.bmp - No Clock:
+Pictures384.bmp - No Clock:
+negative296.bmp - No Clock:
+negative473.bmp - No Clock:
+negative598.bmp - No Clock:
+Pictures99.bmp - No Clock:
+negative632.bmp - No Clock:
+Pictures483.bmp - No Clock:
+Pictures679.bmp - No Clock:
+Pictures395.bmp - No Clock:
+Pictures434.bmp - No Clock:
+negative281.bmp - No Clock:
+Pictures302.bmp - No Clock:
+Pictures368.bmp - No Clock:
+negative487.bmp - No Clock:
+negative195.bmp - No Clock:
+Pictures79.bmp - No Clock:
+Pictures168.bmp - Dected Clock:
+['x:86,y:891 : w:239,h:239;']
+negative471.bmp - No Clock:
+negative563.bmp - Dected Clock:
+['x:360,y:1074 : w:42,h:42;']
+Pictures245.bmp - No Clock:
+negative515.bmp - No Clock:
+Pictures293.bmp - Dected Clock:
+['x:147,y:319 : w:207,h:207;']
+negative256.bmp - No Clock:
+negative103.bmp - No Clock:
+negative460.bmp - No Clock:
+negative646.bmp - No Clock:
+Pictures628.bmp - Dected Clock:
+['x:406,y:233 : w:69,h:69;']
+negative327.bmp - No Clock:
+Pictures92.bmp - No Clock:
+negative462.bmp - No Clock:
+negative490.bmp - No Clock:
+Pictures643.bmp - No Clock:
+negative567.bmp - No Clock:
+Pictures551.bmp - No Clock:
+negative548.bmp - Dected Clock:
+['x:651,y:1001 : w:56,h:56;']
+negative161.bmp - No Clock:
+negative410.bmp - No Clock:
+Pictures243.bmp - No Clock:
+negative254.bmp - No Clock:
+negative68.bmp - No Clock:
+negative66.bmp - No Clock:
+negative637.bmp - No Clock:
+negative247.bmp - No Clock:
+Pictures636.bmp - No Clock:
+negative147.bmp - No Clock:
+Pictures678.bmp - Dected Clock:
+['x:69,y:823 : w:46,h:46;']
+Pictures519.bmp - No Clock:
+negative650.bmp - No Clock:
+Pictures669.bmp - No Clock:
+Pictures94.bmp - No Clock:
+negative511.bmp - No Clock:
+Pictures360.bmp - No Clock:
+negative260.bmp - No Clock:
+negative549.bmp - Dected Clock:
+['x:422,y:1020 : w:56,h:56;']
+Pictures507.bmp - Dected Clock:
+['x:423,y:532 : w:47,h:47;']
+negative624.bmp - No Clock:
+Pictures497.bmp - No Clock:
+Pictures260.bmp - No Clock:
+negative605.bmp - No Clock:
+Pictures361.bmp - No Clock:
+negative626.bmp - No Clock:
+Pictures29.bmp - No Clock:
+negative142.bmp - No Clock:
+Pictures144.bmp - Dected Clock:
+['x:626,y:891 : w:63,h:63;']
+negative556.bmp - No Clock:
+Pictures456.bmp - No Clock:
+negative128.bmp - No Clock:
+negative441.bmp - No Clock:
+Pictures37.bmp - No Clock:
+negative407.bmp - No Clock:
+Pictures682.bmp - Dected Clock:
+['x:499,y:387 : w:53,h:53;']
+Pictures348.bmp - Dected Clock:
+['x:411,y:281 : w:46,h:46;']
+Pictures342.bmp - No Clock:
+negative433.bmp - No Clock:
+negative357.bmp - No Clock:
+Pictures675.bmp - No Clock:
+Pictures235.bmp - No Clock:
+negative332.bmp - Dected Clock:
+['x:75,y:590 : w:62,h:62;', 'x:19,y:122 : w:133,h:133;']
+negative449.bmp - No Clock:
+Pictures347.bmp - Dected Clock:
+['x:228,y:683 : w:41,h:41;']
+negative394.bmp - No Clock:
+Pictures328.bmp - No Clock:
+Pictures199.bmp - Dected Clock:
+['x:436,y:736 : w:62,h:62;']
+negative501.bmp - No Clock:
+Pictures10.bmp - No Clock:
+negative429.bmp - No Clock:
+Pictures331.bmp - No Clock:
+negative455.bmp - No Clock:
+negative204.bmp - No Clock:
+Pictures208.bmp - Dected Clock:
+['x:85,y:698 : w:46,h:46;']
+Pictures450.bmp - No Clock:
+negative618.bmp - No Clock:
+Pictures287.bmp - No Clock:
+negative349.bmp - No Clock:
+Pictures495.bmp - No Clock:
+negative114.bmp - No Clock:
+negative578.bmp - No Clock:
+negative218.bmp - No Clock:
+Pictures84.bmp - No Clock:
+negative659.bmp - No Clock:
+Pictures80.bmp - No Clock:
+Pictures380.bmp - No Clock:
+Pictures313.bmp - Dected Clock:
+['x:301,y:168 : w:64,h:64;']
+negative416.bmp - No Clock:
+Pictures137.bmp - Dected Clock:
+['x:634,y:1157 : w:52,h:52;']
+negative541.bmp - No Clock:
+Pictures248.bmp - No Clock:
+negative146.bmp - No Clock:
+Pictures57.bmp - Dected Clock:
+['x:267,y:362 : w:384,h:384;']
+negative581.bmp - No Clock:
+negative259.bmp - No Clock:
+negative180.bmp - No Clock:
+Pictures359.bmp - No Clock:
+negative615.bmp - No Clock:
+negative409.bmp - No Clock:
+negative287.bmp - No Clock:
+negative73.bmp - No Clock:
+negative398.bmp - No Clock:
+Pictures425.bmp - Dected Clock:
+['x:520,y:438 : w:45,h:45;', 'x:232,y:506 : w:73,h:73;']
+negative265.bmp - No Clock:
+Pictures297.bmp - No Clock:
+Pictures330.bmp - Dected Clock:
+['x:570,y:268 : w:69,h:69;', 'x:352,y:42 : w:116,h:116;']
+Pictures263.bmp - No Clock:
+negative506.bmp - No Clock:
+negative338.bmp - No Clock:
+negative494.bmp - Dected Clock:
+['x:575,y:1173 : w:45,h:45;']
+negative355.bmp - Dected Clock:
+['x:611,y:57 : w:33,h:33;']
+negative54.bmp - No Clock:
+negative81.bmp - No Clock:
+negative540.bmp - No Clock:
+negative78.bmp - No Clock:
+Pictures121.bmp - No Clock:
+Pictures579.bmp - No Clock:
+negative280.bmp - No Clock:
+Pictures215.bmp - No Clock:
+Pictures559.bmp - No Clock:
+Pictures591.bmp - Dected Clock:
+['x:456,y:657 : w:100,h:100;']
+negative522.bmp - No Clock:
+Pictures503.bmp - No Clock:
+negative168.bmp - No Clock:
+Pictures224.bmp - No Clock:
+Pictures276.bmp - No Clock:
+Pictures288.bmp - No Clock:
+negative430.bmp - No Clock:
+Pictures557.bmp - No Clock:
+Pictures603.bmp - No Clock:
+Pictures264.bmp - Dected Clock:
+['x:173,y:1147 : w:37,h:37;', 'x:308,y:245 : w:57,h:57;', 'x:308,y:1168 : w:90,h:90;']
+Pictures622.bmp - No Clock:
+negative655.bmp - No Clock:
+negative434.bmp - No Clock:
+negative619.bmp - No Clock:
+Pictures244.bmp - No Clock:
+negative572.bmp - No Clock:
+negative7.bmp - No Clock:
+Pictures656.bmp - No Clock:
+negative310.bmp - No Clock:
+negative551.bmp - Dected Clock:
+['x:407,y:1014 : w:52,h:52;']
+negative262.bmp - No Clock:
+negative492.bmp - Dected Clock:
+['x:481,y:1175 : w:47,h:47;']
+Pictures58.bmp - Dected Clock:
+['x:452,y:221 : w:43,h:43;']
+Pictures106.bmp - No Clock:
+Pictures83.bmp - No Clock:
+Pictures323.bmp - No Clock:
+negative592.bmp - No Clock:
+Pictures74.bmp - No Clock:
+negative271.bmp - No Clock:
+Pictures534.bmp - No Clock:
+negative107.bmp - No Clock:
+negative317.bmp - Dected Clock:
+['x:186,y:67 : w:102,h:102;']
+Pictures522.bmp - No Clock:
+negative196.bmp - No Clock:
+negative519.bmp - No Clock:
+Pictures266.bmp - No Clock:
+Pictures562.bmp - No Clock:
+negative616.bmp - No Clock:
+negative451.bmp - No Clock:
+Pictures140.bmp - Dected Clock:
+['x:463,y:439 : w:50,h:50;', 'x:644,y:843 : w:62,h:62;', 'x:413,y:698 : w:214,h:214;']
+negative442.bmp - No Clock:
+Pictures436.bmp - No Clock:
+negative99.bmp - No Clock:
+Pictures250.bmp - No Clock:
+Pictures627.bmp - No Clock:
+negative537.bmp - No Clock:
+negative20.bmp - No Clock:
+negative244.bmp - No Clock:
+objectmarker - No Clock:
+negative535.bmp - No Clock:
+negative276.bmp - No Clock:
+negative595.bmp - No Clock:
+negative155.bmp - No Clock:
+negative62.bmp - No Clock:
+Pictures590.bmp - Dected Clock:
+['x:235,y:761 : w:142,h:142;']
+negative184.bmp - No Clock:
+Pictures265.bmp - No Clock:
+negative647.bmp - No Clock:
+negative63.bmp - No Clock:
+Pictures587.bmp - No Clock:
+negative186.bmp - No Clock:
+Pictures383.bmp - No Clock:
+Pictures505.bmp - Dected Clock:
+['x:416,y:536 : w:46,h:46;']
+Pictures254.bmp - Dected Clock:
+['x:106,y:1118 : w:41,h:41;', 'x:108,y:699 : w:50,h:50;']
+Pictures17.bmp - No Clock:
+Pictures114.bmp - No Clock:
+negative116.bmp - No Clock:
+negative127.bmp - No Clock:
+negative529.bmp - No Clock:
+Pictures399.bmp - No Clock:
+Pictures491.bmp - No Clock:
+Pictures564.bmp - Dected Clock:
+['x:80,y:1027 : w:101,h:101;']
+positive.txt - No Clock:
+Pictures525.bmp - Dected Clock:
+['x:367,y:1072 : w:41,h:41;']
+Pictures26.bmp - No Clock:
+Pictures671.bmp - No Clock:
+Pictures308.bmp - No Clock:
+negative150.bmp - No Clock:
+Pictures518.bmp - No Clock:
+negative559.bmp - No Clock:
+Pictures341.bmp - Dected Clock:
+['x:183,y:82 : w:275,h:275;']
+negative406.bmp - No Clock:
+negative570.bmp - No Clock:
+Pictures279.bmp - No Clock:
+negative421.bmp - No Clock:
+Pictures256.bmp - Dected Clock:
+['x:104,y:1117 : w:38,h:38;']
+negative642.bmp - No Clock:
+Pictures88.bmp - No Clock:
+Pictures344.bmp - Dected Clock:
+['x:128,y:13 : w:275,h:275;']
+negative452.bmp - No Clock:
+Pictures334.bmp - No Clock:
+Pictures420.bmp - No Clock:
+Pictures651.bmp - No Clock:
+Pictures336.bmp - No Clock:
+negative292.bmp - No Clock:
+Pictures138.bmp - Dected Clock:
+['x:490,y:363 : w:51,h:51;', 'x:423,y:657 : w:202,h:202;']
+Pictures478.bmp - Dected Clock:
+['x:2,y:818 : w:179,h:179;']
+negative505.bmp - No Clock:
+Pictures544.bmp - Dected Clock:
+['x:418,y:762 : w:46,h:46;']
+Pictures477.bmp - No Clock:
+Pictures298.bmp - No Clock:
+Pictures339.bmp - No Clock:
+Pictures655.bmp - No Clock:
+Pictures462.bmp - Dected Clock:
+['x:41,y:806 : w:178,h:178;']
+negative175.bmp - No Clock:
+negative86.bmp - No Clock:
+Pictures133.bmp - Dected Clock:
+['x:353,y:521 : w:207,h:207;']
+negative83.bmp - No Clock:
+Pictures389.bmp - No Clock:
+Pictures351.bmp - No Clock:
+Pictures558.bmp - Dected Clock:
+['x:28,y:730 : w:376,h:376;']
+Pictures157.bmp - No Clock:
+Pictures470.bmp - Dected Clock:
+['x:101,y:750 : w:191,h:191;']
+negative117.bmp - No Clock:
+Pictures261.bmp - No Clock:
+Pictures673.bmp - No Clock:
+negative427.bmp - No Clock:
+negative57.bmp - No Clock:
+negative658.bmp - No Clock:
+negative322.bmp - Dected Clock:
+['x:106,y:163 : w:120,h:120;']
+Pictures604.bmp - Dected Clock:
+['x:304,y:103 : w:141,h:141;']
+negative205.bmp - No Clock:
+negative432.bmp - No Clock:
+negative371.bmp - No Clock:
+Pictures257.bmp - No Clock:
+Pictures46.bmp - Dected Clock:
+['x:331,y:646 : w:35,h:35;']
+negative418.bmp - No Clock:
+Pictures12.bmp - No Clock:
+Pictures665.bmp - No Clock:
+Pictures581.bmp - No Clock:
+Pictures686.bmp - Dected Clock:
+['x:346,y:802 : w:35,h:35;']
+Pictures246.bmp - No Clock:
+negative607.bmp - No Clock:
+Pictures198.bmp - No Clock:
+negative396.bmp - No Clock:
+negative60.bmp - No Clock:
+Pictures290.bmp - No Clock:
+negative67.bmp - No Clock:
+Pictures221.bmp - No Clock:
+negative320.bmp - No Clock:
+negative601.bmp - No Clock:
+Pictures340.bmp - No Clock:
+negative304.bmp - No Clock:
+Pictures392.bmp - No Clock:
+negative412.bmp - No Clock:
+Pictures55.bmp - No Clock:
+Pictures333.bmp - No Clock:
+Pictures135.bmp - Dected Clock:
+['x:435,y:602 : w:38,h:38;', 'x:654,y:693 : w:52,h:52;', 'x:408,y:559 : w:211,h:211;']
+Pictures493.bmp - Dected Clock:
+['x:585,y:520 : w:84,h:84;']
+negative477.bmp - No Clock:
+Pictures82.bmp - Dected Clock:
+['x:535,y:421 : w:38,h:38;']
+negative121.bmp - No Clock:
+negative530.bmp - No Clock:
+negative553.bmp - No Clock:
+negative74.bmp - No Clock:
+Pictures229.bmp - No Clock:
+Pictures584.bmp - No Clock:
+Pictures206.bmp - No Clock:
+Pictures371.bmp - Dected Clock:
+['x:100,y:407 : w:40,h:40;']
+negative424.bmp - No Clock:
+Pictures189.bmp - Dected Clock:
+['x:286,y:878 : w:58,h:58;']
+negative145.bmp - No Clock:
+negative478.bmp - No Clock:
+negative351.bmp - No Clock:
+negative93.bmp - No Clock:
+negative89.bmp - No Clock:
+negative415.bmp - No Clock:
+Pictures122.bmp - No Clock:
+negative229.bmp - No Clock:
+Pictures441.bmp - No Clock:
+negative502.bmp - No Clock:
+Pictures485.bmp - Dected Clock:
+['x:84,y:936 : w:173,h:173;']
+negative238.bmp - No Clock:
+Pictures444.bmp - No Clock:
+Pictures107.bmp - Dected Clock:
+['x:266,y:704 : w:33,h:33;']
+Pictures569.bmp - Dected Clock:
+['x:67,y:1006 : w:90,h:90;']
+negative129.bmp - No Clock:
+negative215.bmp - No Clock:
+negative55.bmp - No Clock:
+negative257.bmp - No Clock:
+negative201.bmp - No Clock:
+Pictures595.bmp - Dected Clock:
+['x:485,y:427 : w:120,h:120;']
+negative476.bmp - No Clock:
+negative225.bmp - No Clock:
+negative472.bmp - No Clock:
+Pictures329.bmp - No Clock:
+Pictures402.bmp - Dected Clock:
+['x:513,y:261 : w:42,h:42;', 'x:288,y:417 : w:46,h:46;']
+Pictures123.bmp - No Clock:
+Pictures268.bmp - Dected Clock:
+['x:256,y:1167 : w:33,h:33;']
+Pictures141.bmp - Dected Clock:
+['x:641,y:852 : w:67,h:67;']
+Pictures506.bmp - No Clock:
+negative500.bmp - No Clock:
+negative313.bmp - No Clock:
+Pictures460.bmp - Dected Clock:
+['x:28,y:832 : w:193,h:193;']
+negative609.bmp - No Clock:
+Pictures635.bmp - No Clock:
+Pictures124.bmp - Dected Clock:
+['x:636,y:993 : w:60,h:60;']
+negative42.bmp - No Clock:
+Pictures350.bmp - No Clock:
+negative579.bmp - No Clock:
+negative250.bmp - No Clock:
+Pictures255.bmp - No Clock:
+negative316.bmp - Dected Clock:
+['x:205,y:99 : w:97,h:97;']
+Pictures572.bmp - No Clock:
+Pictures186.bmp - Dected Clock:
+['x:478,y:278 : w:74,h:74;']
+negative480.bmp - No Clock:
+negative518.bmp - No Clock:
+Pictures430.bmp - No Clock:
+Pictures486.bmp - No Clock:
+Pictures610.bmp - Dected Clock:
+['x:512,y:784 : w:40,h:40;']
+negative649.bmp - No Clock:
+negative251.bmp - No Clock:
+negative133.bmp - No Clock:
+Pictures372.bmp - Dected Clock:
+['x:58,y:396 : w:45,h:45;']
+negative268.bmp - No Clock:
+negative369.bmp - No Clock:
+Pictures150.bmp - Dected Clock:
+['x:441,y:918 : w:207,h:207;']
+negative546.bmp - Dected Clock:
+['x:429,y:997 : w:56,h:56;']
+negative590.bmp - No Clock:
+negative194.bmp - No Clock:
+Pictures677.bmp - No Clock:
+Pictures86.bmp - No Clock:
+negative382.bmp - No Clock:
+negative45.bmp - No Clock:
+negative79.bmp - No Clock:
+negative106.bmp - No Clock:
+negative38.bmp - No Clock:
+negative139.bmp - No Clock:
+negative571.bmp - No Clock:
+Pictures317.bmp - No Clock:
+negative130.bmp - No Clock:
+negative484.bmp - No Clock:
+negative47.bmp - No Clock:
+Pictures292.bmp - Dected Clock:
+['x:575,y:490 : w:70,h:70;']
+Pictures532.bmp - No Clock:
+negative18.bmp - No Clock:
+Pictures309.bmp - No Clock:
+Pictures240.bmp - No Clock:
+Pictures617.bmp - No Clock:
+negative301.bmp - No Clock:
+Pictures43.bmp - No Clock:
+negative337.bmp - No Clock:
+negative447.bmp - No Clock:
+Pictures258.bmp - Dected Clock:
+['x:105,y:1122 : w:41,h:41;']
+Pictures563.bmp - Dected Clock:
+['x:76,y:1015 : w:83,h:83;', 'x:9,y:764 : w:377,h:377;']
+Pictures44.bmp - Dected Clock:
+['x:369,y:670 : w:36,h:36;']
+negative555.bmp - No Clock:
+negative358.bmp - No Clock:
+Pictures300.bmp - No Clock:
+Pictures547.bmp - Dected Clock:
+['x:527,y:1052 : w:38,h:38;', 'x:389,y:764 : w:44,h:44;']
+negative328.bmp - Dected Clock:
+['x:136,y:219 : w:126,h:126;']
+Pictures369.bmp - Dected Clock:
+['x:472,y:434 : w:53,h:53;']
+negative485.bmp - Dected Clock:
+['x:579,y:804 : w:72,h:72;']
+Pictures403.bmp - Dected Clock:
+['x:316,y:376 : w:35,h:35;', 'x:340,y:384 : w:46,h:46;', 'x:226,y:397 : w:45,h:45;']
+Pictures453.bmp - Dected Clock:
+['x:69,y:808 : w:245,h:245;']
+Pictures219.bmp - No Clock:
+negative29.bmp - No Clock:
+Pictures9.bmp - No Clock:
+Pictures443.bmp - Dected Clock:
+['x:392,y:323 : w:82,h:82;']
+negative232.bmp - No Clock:
+Pictures259.bmp - Dected Clock:
+['x:254,y:218 : w:59,h:59;']
+Pictures332.bmp - Dected Clock:
+['x:508,y:855 : w:57,h:57;']
+negative640.bmp - No Clock:
+Pictures512.bmp - No Clock:
+Pictures23.bmp - Dected Clock:
+['x:592,y:285 : w:88,h:88;']
+negative255.bmp - No Clock:
+negative80.bmp - No Clock:
+negative302.bmp - No Clock:
+Pictures33.bmp - Dected Clock:
+['x:218,y:135 : w:167,h:167;']
+negative523.bmp - No Clock:
+negative597.bmp - No Clock:
+Pictures196.bmp - No Clock:
+Pictures180.bmp - No Clock:
+negative446.bmp - No Clock:
+negative657.bmp - No Clock:
+negative88.bmp - No Clock:
+negative362.bmp - No Clock:
+Pictures222.bmp - Dected Clock:
+['x:32,y:630 : w:176,h:176;']
+Pictures390.bmp - No Clock:
+Pictures273.bmp - Dected Clock:
+['x:328,y:406 : w:40,h:40;']
+Pictures111.bmp - Dected Clock:
+['x:388,y:1092 : w:50,h:50;']
+negative660.bmp - No Clock:
+Pictures446.bmp - No Clock:
+Pictures167.bmp - No Clock:
+negative417.bmp - No Clock:
+negative620.bmp - No Clock:
+negative261.bmp - No Clock:
+negative141.bmp - No Clock:
+Pictures476.bmp - Dected Clock:
+['x:78,y:847 : w:172,h:172;']
+negative109.bmp - No Clock:
+Pictures306.bmp - No Clock:
+negative334.bmp - No Clock:
+negative463.bmp - No Clock:
+negative525.bmp - No Clock:
+Pictures59.bmp - Dected Clock:
+['x:458,y:210 : w:46,h:46;']
+negative542.bmp - No Clock:
+Pictures629.bmp - No Clock:
+Pictures459.bmp - Dected Clock:
+['x:33,y:832 : w:205,h:205;']
+Pictures223.bmp - No Clock:
+negative53.bmp - No Clock:
+Pictures573.bmp - No Clock:
+negative577.bmp - No Clock:
+Pictures667.bmp - No Clock:
+negative325.bmp - No Clock:
+Pictures513.bmp - No Clock:
+Pictures30.bmp - Dected Clock:
+['x:539,y:268 : w:54,h:54;']
+Pictures139.bmp - Dected Clock:
+['x:162,y:956 : w:37,h:37;', 'x:416,y:669 : w:52,h:52;', 'x:633,y:812 : w:62,h:62;', 'x:393,y:692 : w:186,h:186;']
+Pictures104.bmp - No Clock:
+Pictures570.bmp - Dected Clock:
+['x:316,y:835 : w:40,h:40;']
+negative32.bmp - No Clock:
+Pictures324.bmp - Dected Clock:
+['x:445,y:191 : w:62,h:62;']
+negative149.bmp - No Clock:
+Pictures312.bmp - Dected Clock:
+['x:94,y:736 : w:188,h:188;']
+Pictures600.bmp - No Clock:
+negative77.bmp - No Clock:
+negative266.bmp - No Clock:
+Pictures1.bmp - No Clock:
+Pictures301.bmp - No Clock:
+negative312.bmp - No Clock:
+negative413.bmp - No Clock:
+Pictures560.bmp - No Clock:
+Pictures461.bmp - Dected Clock:
+['x:34,y:822 : w:185,h:185;']
+negative243.bmp - No Clock:
+negative211.bmp - No Clock:
+negative568.bmp - No Clock:
+Pictures653.bmp - No Clock:
+negative385.bmp - No Clock:
+negative36.bmp - No Clock:
+Pictures310.bmp - No Clock:
+Pictures494.bmp - No Clock:
+Pictures644.bmp - No Clock:
+negative97.bmp - No Clock:
+Pictures413.bmp - Dected Clock:
+['x:295,y:149 : w:42,h:42;']
+Pictures660.bmp - No Clock:
+negative552.bmp - Dected Clock:
+['x:388,y:1000 : w:52,h:52;']
+Pictures161.bmp - No Clock:
+Pictures136.bmp - Dected Clock:
+['x:637,y:705 : w:61,h:61;', 'x:402,y:580 : w:202,h:202;']
+Pictures105.bmp - No Clock:
+negative207.bmp - No Clock:
+Pictures387.bmp - No Clock:
+negative51.bmp - No Clock:
+negative514.bmp - No Clock:
+Pictures338.bmp - No Clock:
+negative587.bmp - No Clock:
+Pictures335.bmp - No Clock:
+negative508.bmp - No Clock:
+negative242.bmp - No Clock:
+Pictures201.bmp - No Clock:
+Pictures650.bmp - No Clock:
+Pictures489.bmp - No Clock:
+negative408.bmp - No Clock:
+Pictures438.bmp - No Clock:
+Pictures47.bmp - Dected Clock:
+['x:329,y:638 : w:37,h:37;']
+negative323.bmp - Dected Clock:
+['x:107,y:205 : w:111,h:111;']
+Pictures352.bmp - No Clock:
+negative270.bmp - No Clock:
+negative56.bmp - No Clock:
+Pictures71.bmp - Dected Clock:
+['x:233,y:356 : w:418,h:418;']
+negative37.bmp - No Clock:
+negative596.bmp - No Clock:
+Pictures508.bmp - Dected Clock:
+['x:371,y:620 : w:47,h:47;']
+Pictures148.bmp - Dected Clock:
+['x:597,y:935 : w:64,h:64;']
+Pictures93.bmp - No Clock:
+negative272.bmp - No Clock:
+negative558.bmp - No Clock:
+Pictures580.bmp - No Clock:
+negative1.bmp - No Clock:
+Pictures514.bmp - No Clock:
+negative39.bmp - No Clock:
+negative610.bmp - No Clock:
+negative376.bmp - No Clock:
+negative550.bmp - Dected Clock:
+['x:344,y:1052 : w:37,h:37;']
+negative510.bmp - No Clock:
+negative290.bmp - No Clock:
+negative383.bmp - No Clock:
+negative560.bmp - No Clock:
+negative367.bmp - No Clock:
+Pictures465.bmp - No Clock:
+Pictures614.bmp - No Clock:
+Pictures432.bmp - No Clock:
+negative.txt - No Clock:
+negative285.bmp - No Clock:
+negative87.bmp - No Clock:
+negative321.bmp - Dected Clock:
+['x:124,y:152 : w:109,h:109;']
+negative264.bmp - No Clock:
+negative154.bmp - No Clock:
+negative192.bmp - No Clock:
+Pictures63.bmp - Dected Clock:
+['x:396,y:166 : w:45,h:45;']
+Pictures606.bmp - Dected Clock:
+['x:350,y:351 : w:39,h:39;']
+negative331.bmp - Dected Clock:
+['x:107,y:596 : w:63,h:63;']
+negative524.bmp - No Clock:
+Pictures521.bmp - No Clock:
+negative76.bmp - No Clock:
+Pictures207.bmp - No Clock:
+Pictures195.bmp - No Clock:
+negative6.bmp - No Clock:
+negative162.bmp - No Clock:
+negative562.bmp - No Clock:
+Pictures87.bmp - No Clock:
+Pictures252.bmp - No Clock:
+Pictures253.bmp - Dected Clock:
+['x:172,y:695 : w:40,h:40;']
+Pictures165.bmp - No Clock:
+negative33.bmp - No Clock:
+negative654.bmp - No Clock:
+Pictures550.bmp - Dected Clock:
+['x:154,y:654 : w:38,h:38;']
+Pictures381.bmp - No Clock:
+negative365.bmp - No Clock:
+Pictures496.bmp - No Clock:
+negative174.bmp - No Clock:
+Pictures116.bmp - No Clock:
+Pictures175.bmp - Dected Clock:
+['x:46,y:484 : w:44,h:44;', 'x:464,y:954 : w:55,h:55;']
+Pictures345.bmp - Dected Clock:
+['x:510,y:193 : w:53,h:53;']
+Pictures515.bmp - No Clock:
+negative108.bmp - No Clock:
+Pictures618.bmp - Dected Clock:
+['x:482,y:902 : w:44,h:44;']
+negative48.bmp - No Clock:
+Pictures158.bmp - No Clock:
+negative120.bmp - No Clock:
+Pictures346.bmp - No Clock:
+negative191.bmp - No Clock:
+Pictures549.bmp - No Clock:
+Pictures249.bmp - No Clock:
+negative464.bmp - No Clock:
+negative425.bmp - No Clock:
+Pictures447.bmp - No Clock:
+Pictures110.bmp - No Clock:
+Pictures634.bmp - No Clock:
+Pictures613.bmp - Dected Clock:
+['x:310,y:765 : w:63,h:63;']
+negative420.bmp - No Clock:
+Pictures565.bmp - No Clock:
+Pictures230.bmp - Dected Clock:
+['x:218,y:642 : w:46,h:46;']
+negative342.bmp - No Clock:
+negative212.bmp - No Clock:
+negative580.bmp - No Clock:
+negative651.bmp - No Clock:
+Pictures490.bmp - No Clock:
+negative308.bmp - Dected Clock:
+['x:402,y:66 : w:70,h:70;']
+negative629.bmp - No Clock:
+Pictures500.bmp - Dected Clock:
+['x:309,y:1053 : w:41,h:41;', 'x:657,y:549 : w:54,h:54;']
+negative208.bmp - No Clock:
+Pictures14.bmp - No Clock:
+Pictures291.bmp - No Clock:
+negative422.bmp - No Clock:
+negative391.bmp - No Clock:
+negative233.bmp - No Clock:
+negative599.bmp - No Clock:
+Pictures4.bmp - Dected Clock:
+['x:401,y:292 : w:73,h:73;']
+Pictures54.bmp - No Clock:
+negative209.bmp - No Clock:
+Pictures467.bmp - Dected Clock:
+['x:129,y:742 : w:208,h:208;']
+Pictures464.bmp - Dected Clock:
+['x:102,y:783 : w:176,h:176;']
+negative606.bmp - No Clock:
+negative340.bmp - No Clock:
+negative635.bmp - No Clock:
+negative622.bmp - No Clock:
+negative661.bmp - No Clock:
+negative228.bmp - No Clock:
+negative98.bmp - No Clock:
+negative445.bmp - No Clock:
+Pictures659.bmp - No Clock:
+cascade.xml - No Clock:
+negative182.bmp - No Clock:
+Pictures624.bmp - No Clock:
+negative366.bmp - No Clock:
+Pictures75.bmp - No Clock:
+Pictures609.bmp - No Clock:
+negative303.bmp - No Clock:
+Pictures125.bmp - No Clock:
+negative216.bmp - No Clock:
+Pictures152.bmp - No Clock:
+Pictures396.bmp - Dected Clock:
+['x:301,y:393 : w:38,h:38;']
+Pictures289.bmp - No Clock:
+negative435.bmp - No Clock:
+Pictures527.bmp - No Clock:
+vecfile.vec - No Clock:
+negative193.bmp - No Clock:
+Pictures15.bmp - No Clock:
+negative652.bmp - No Clock:
+Pictures568.bmp - No Clock:
+negative10.bmp - No Clock:
+negative354.bmp - No Clock:
+Pictures131.bmp - No Clock:
+Pictures439.bmp - No Clock:
+Pictures303.bmp - No Clock:
+Pictures2.bmp - No Clock:
+Pictures242.bmp - No Clock:
+negative521.bmp - No Clock:
+negative645.bmp - No Clock:
+negative465.bmp - No Clock:
+Pictures401.bmp - Dected Clock:
+['x:274,y:416 : w:45,h:45;']
+negative298.bmp - No Clock:
+negative400.bmp - No Clock:
+Pictures216.bmp - No Clock:
+negative458.bmp - No Clock:
+negative324.bmp - Dected Clock:
+['x:110,y:231 : w:114,h:114;']
+Pictures132.bmp - Dected Clock:
+['x:575,y:654 : w:64,h:64;', 'x:304,y:523 : w:232,h:232;']
+negative431.bmp - No Clock:
+negative461.bmp - No Clock:
+negative252.bmp - No Clock:
+Pictures13.bmp - No Clock:
+Pictures668.bmp - No Clock:
+Pictures203.bmp - No Clock:
+Pictures68.bmp - Dected Clock:
+['x:383,y:229 : w:45,h:45;', 'x:259,y:370 : w:332,h:332;']
+negative179.bmp - No Clock:
+Pictures237.bmp - No Clock:
+Pictures664.bmp - Dected Clock:
+['x:229,y:554 : w:38,h:38;', 'x:367,y:607 : w:42,h:42;', 'x:305,y:672 : w:102,h:102;']
+Pictures56.bmp - No Clock:
+Pictures217.bmp - No Clock:
+negative443.bmp - No Clock:
+Pictures611.bmp - No Clock:
+Pictures166.bmp - Dected Clock:
+['x:369,y:386 : w:61,h:61;', 'x:166,y:577 : w:61,h:61;', 'x:122,y:593 : w:72,h:72;']
+negative459.bmp - No Clock:
+negative226.bmp - No Clock:
+Pictures146.bmp - Dected Clock:
+['x:619,y:901 : w:64,h:64;', 'x:389,y:781 : w:193,h:193;']
+Pictures101.bmp - No Clock:
+Pictures326.bmp - Dected Clock:
+['x:42,y:782 : w:40,h:40;']
+negative187.bmp - No Clock:
+Pictures112.bmp - Dected Clock:
+['x:225,y:871 : w:30,h:30;']
+Pictures129.bmp - No Clock:
+Pictures540.bmp - Dected Clock:
+['x:438,y:989 : w:43,h:43;', 'x:221,y:721 : w:41,h:41;', 'x:612,y:1123 : w:63,h:63;']
+Pictures466.bmp - No Clock:
+Pictures178.bmp - No Clock:
+Pictures170.bmp - No Clock:
+Pictures31.bmp - Dected Clock:
+['x:583,y:277 : w:50,h:50;']
+Pictures681.bmp - No Clock:
+Pictures545.bmp - No Clock:
+Pictures357.bmp - Dected Clock:
+['x:443,y:410 : w:49,h:49;']
+Pictures393.bmp - No Clock:
+negative27.bmp - No Clock:
+negative203.bmp - No Clock:
+negative19.bmp - No Clock:
+Pictures588.bmp - No Clock:
+negative319.bmp - Dected Clock:
+['x:142,y:104 : w:129,h:129;']
+Pictures209.bmp - Dected Clock:
+['x:364,y:678 : w:75,h:75;']
+Pictures173.bmp - Dected Clock:
+['x:50,y:840 : w:66,h:66;']
+negative378.bmp - No Clock:
+negative532.bmp - No Clock:
+negative223.bmp - No Clock:
+negative454.bmp - No Clock:
+negative438.bmp - No Clock:
+negative426.bmp - No Clock:
+negative101.bmp - No Clock:
+negative488.bmp - No Clock:
+negative69.bmp - No Clock:
+negative65.bmp - No Clock:
+Pictures27.bmp - No Clock:
+Pictures672.bmp - Dected Clock:
+['x:526,y:574 : w:62,h:62;']
+Pictures212.bmp - Dected Clock:
+['x:93,y:716 : w:39,h:39;']
+negative353.bmp - No Clock:
+negative631.bmp - No Clock:
+negative158.bmp - No Clock:
+Pictures374.bmp - No Clock:
+negative200.bmp - No Clock:
+Pictures18.bmp - No Clock:
+negative164.bmp - No Clock:
+Pictures639.bmp - Dected Clock:
+['x:242,y:264 : w:43,h:43;']
+negative23.bmp - No Clock:
+Pictures190.bmp - No Clock:
+negative611.bmp - No Clock:
+Pictures530.bmp - No Clock:
+negative283.bmp - No Clock:
+Pictures623.bmp - No Clock:
+Pictures531.bmp - No Clock:
+Pictures555.bmp - Dected Clock:
+['x:494,y:1107 : w:34,h:34;']
+negative289.bmp - No Clock:
+Pictures657.bmp - Dected Clock:
+['x:347,y:360 : w:48,h:48;']
+negative444.bmp - No Clock:
+Pictures321.bmp - No Clock:
+negative627.bmp - No Clock:
+Pictures95.bmp - No Clock:
+Pictures117.bmp - No Clock:
+negative214.bmp - No Clock:
+negative621.bmp - No Clock:
+negative583.bmp - No Clock:
+Pictures612.bmp - No Clock:
+negative388.bmp - No Clock:
+Pictures641.bmp - No Clock:
+negative643.bmp - No Clock:
+negative269.bmp - No Clock:
+Pictures662.bmp - No Clock:
+Pictures283.bmp - No Clock:
+Pictures98.bmp - No Clock:
+Pictures11.bmp - No Clock:
+negative72.bmp - No Clock:
+Pictures24.bmp - Dected Clock:
+['x:617,y:291 : w:80,h:80;']
+negative495.bmp - Dected Clock:
+['x:564,y:1158 : w:41,h:41;']
+Pictures155.bmp - No Clock:
+Pictures36.bmp - No Clock:
+negative144.bmp - No Clock:
+negative156.bmp - No Clock:
+Pictures511.bmp - Dected Clock:
+['x:421,y:708 : w:35,h:35;']
+negative91.bmp - No Clock:
+Pictures327.bmp - No Clock:
+Pictures626.bmp - No Clock:
+Pictures458.bmp - Dected Clock:
+['x:21,y:850 : w:209,h:209;']
+negative92.bmp - No Clock:
+Pictures337.bmp - No Clock:
+Pictures128.bmp - No Clock:
+negative118.bmp - No Clock:
+Pictures684.bmp - Dected Clock:
+['x:506,y:363 : w:54,h:54;']
+Pictures516.bmp - No Clock:
+negative21.bmp - No Clock:
+Pictures646.bmp - No Clock:
+negative135.bmp - No Clock:
+Pictures233.bmp - Dected Clock:
+['x:205,y:202 : w:49,h:49;', 'x:149,y:636 : w:47,h:47;']
+Pictures484.bmp - No Clock:
+Pictures60.bmp - No Clock:
+Pictures528.bmp - No Clock:
+negative496.bmp - Dected Clock:
+['x:551,y:1154 : w:39,h:39;']
+negative15.bmp - No Clock:
+Pictures176.bmp - No Clock:
+negative520.bmp - No Clock:
+Pictures685.bmp - No Clock:
+Pictures370.bmp - No Clock:
+Pictures367.bmp - Dected Clock:
+['x:203,y:612 : w:160,h:160;']
+Pictures637.bmp - Dected Clock:
+['x:202,y:244 : w:40,h:40;']
+Pictures113.bmp - No Clock:
+Pictures663.bmp - No Clock:
+negative293.bmp - No Clock:
+Pictures89.bmp - No Clock:
+negative344.bmp - No Clock:
+Pictures398.bmp - No Clock:
+negative585.bmp - No Clock:
+negative297.bmp - No Clock:
+negative8.bmp - No Clock:
+Pictures431.bmp - No Clock:
+Pictures602.bmp - Dected Clock:
+['x:401,y:330 : w:50,h:50;']
+negative34.bmp - No Clock:
+negative539.bmp - No Clock:
+negative364.bmp - No Clock:
+Pictures394.bmp - No Clock:
+negative305.bmp - No Clock:
+Pictures658.bmp - Dected Clock:
+['x:322,y:400 : w:98,h:98;']
+Pictures640.bmp - No Clock:
+negative612.bmp - No Clock:
+Pictures21.bmp - No Clock:
+negative245.bmp - No Clock:
+negative249.bmp - No Clock:
+negative159.bmp - No Clock:
+Pictures649.bmp - Dected Clock:
+['x:490,y:293 : w:132,h:132;']
+negative359.bmp - No Clock:
+Pictures119.bmp - Dected Clock:
+['x:644,y:983 : w:62,h:62;']
+negative123.bmp - No Clock:
+Pictures202.bmp - No Clock:
+negative483.bmp - Dected Clock:
+['x:618,y:791 : w:67,h:67;']
+Pictures546.bmp - Dected Clock:
+['x:41,y:952 : w:91,h:91;']
+negative235.bmp - No Clock:
+Pictures314.bmp - No Clock:
+Pictures343.bmp - No Clock:
+Pictures51.bmp - No Clock:
+Pictures556.bmp - Dected Clock:
+['x:677,y:862 : w:17,h:17;', 'x:376,y:837 : w:39,h:39;']
+negative188.bmp - No Clock:
+negative213.bmp - No Clock:
+negative350.bmp - No Clock:
+negative44.bmp - No Clock:
+negative17.bmp - No Clock:
+negative565.bmp - No Clock:
+negative614.bmp - No Clock:
+Pictures270.bmp - No Clock:
+Pictures96.bmp - Dected Clock:
+['x:623,y:382 : w:34,h:34;']
+negative46.bmp - No Clock:
+Pictures286.bmp - No Clock:
+negative538.bmp - No Clock:
+Pictures418.bmp - No Clock:
+negative82.bmp - No Clock:
+Pictures134.bmp - Dected Clock:
+['x:650,y:683 : w:52,h:52;', 'x:407,y:549 : w:208,h:208;']
+Pictures296.bmp - Dected Clock:
+['x:100,y:78 : w:304,h:304;']
+Pictures183.bmp - Dected Clock:
+['x:545,y:275 : w:71,h:71;']
+Pictures62.bmp - No Clock:
+Pictures285.bmp - No Clock:
+negative210.bmp - No Clock:
+Pictures349.bmp - Dected Clock:
+['x:543,y:381 : w:64,h:64;']
+negative160.bmp - No Clock:
+negative178.bmp - No Clock:
+Pictures247.bmp - No Clock:
+negative345.bmp - No Clock:
+negative5.bmp - No Clock:
+negative176.bmp - No Clock:
+negative456.bmp - No Clock:
+Pictures325.bmp - No Clock:
+negative12.bmp - No Clock:
+negative547.bmp - Dected Clock:
+['x:349,y:1054 : w:40,h:40;', 'x:420,y:1029 : w:56,h:56;']
+negative40.bmp - No Clock:
+negative397.bmp - No Clock:
+negative403.bmp - No Clock:
+Pictures239.bmp - No Clock:
+Pictures108.bmp - No Clock:
+Pictures575.bmp - No Clock:
+Pictures683.bmp - No Clock:
+Pictures52.bmp - No Clock:
+negative450.bmp - No Clock:
+negative219.bmp - No Clock:
+negative236.bmp - No Clock:
+Pictures72.bmp - No Clock:
+negative341.bmp - No Clock:
+negative475.bmp - No Clock:
+Pictures414.bmp - Dected Clock:
+['x:298,y:124 : w:51,h:51;']
+Pictures204.bmp - No Clock:
+negative267.bmp - No Clock:
+negative531.bmp - No Clock:
+Pictures548.bmp - No Clock:
+Pictures364.bmp - No Clock:
+Pictures473.bmp - Dected Clock:
+['x:78,y:806 : w:204,h:204;']
+negative536.bmp - No Clock:
+Pictures85.bmp - No Clock:
+negative84.bmp - No Clock:
+negative85.bmp - No Clock:
+Pictures100.bmp - No Clock:
+negative224.bmp - No Clock:
+negative248.bmp - No Clock:
+negative591.bmp - No Clock:
+negative453.bmp - No Clock:
+negative291.bmp - No Clock:
+Pictures179.bmp - No Clock:
+Pictures377.bmp - No Clock:
+Pictures25.bmp - No Clock:
+negative237.bmp - No Clock:
+negative628.bmp - No Clock:
+Pictures177.bmp - No Clock:
+negative234.bmp - No Clock:
+negative613.bmp - No Clock:
+Pictures524.bmp - No Clock:
+negative64.bmp - No Clock:
+negative131.bmp - No Clock:
+Pictures73.bmp - Dected Clock:
+['x:536,y:396 : w:56,h:56;']
+negative136.bmp - No Clock:
+negative513.bmp - No Clock:
+negative311.bmp - No Clock:
+negative584.bmp - No Clock:
+negative143.bmp - No Clock:
+negative569.bmp - Dected Clock:
+['x:573,y:1067 : w:35,h:35;']
+Pictures49.bmp - No Clock:
+Pictures596.bmp - Dected Clock:
+['x:344,y:393 : w:34,h:34;', 'x:350,y:423 : w:47,h:47;']
+negative185.bmp - No Clock:
+negative300.bmp - No Clock:
+negative100.bmp - No Clock:
+Pictures661.bmp - No Clock:
+Pictures554.bmp - No Clock:
+Pictures451.bmp - Dected Clock:
+['x:321,y:170 : w:61,h:61;']
+Pictures376.bmp - No Clock:
+Pictures397.bmp - Dected Clock:
+['x:310,y:364 : w:37,h:37;', 'x:343,y:368 : w:44,h:44;', 'x:293,y:388 : w:50,h:50;']
+negative279.bmp - No Clock:
+Pictures510.bmp - Dected Clock:
+['x:418,y:670 : w:40,h:40;']
+Pictures238.bmp - Dected Clock:
+['x:216,y:624 : w:36,h:36;']
+negative122.bmp - No Clock:
+positive.txt~ - No Clock:
+negative172.bmp - No Clock:
+Pictures271.bmp - No Clock:
+Pictures353.bmp - No Clock:
+negative373.bmp - No Clock:
+Pictures35.bmp - No Clock:
+Pictures53.bmp - Dected Clock:
+['x:351,y:242 : w:46,h:46;']
+Pictures433.bmp - Dected Clock:
+['x:395,y:225 : w:47,h:47;']
+negative346.bmp - No Clock:
+negative360.bmp - No Clock:
+Pictures687.bmp - No Clock:
+Pictures192.bmp - No Clock:
+negative167.bmp - No Clock:
+negative384.bmp - No Clock:
+Pictures472.bmp - Dected Clock:
+['x:288,y:326 : w:54,h:54;', 'x:67,y:779 : w:182,h:182;']
+negative633.bmp - No Clock:
+Pictures621.bmp - No Clock:
+negative411.bmp - No Clock:
+Pictures232.bmp - Dected Clock:
+['x:539,y:1086 : w:66,h:66;']
+negative295.bmp - No Clock:
+negative457.bmp - No Clock:
+Pictures488.bmp - No Clock:
+negative111.bmp - No Clock:
+Pictures16.bmp - No Clock:
+negative634.bmp - No Clock:
+negative381.bmp - No Clock:
+negative602.bmp - No Clock:
+Pictures145.bmp - Dected Clock:
+['x:623,y:889 : w:64,h:64;', 'x:392,y:772 : w:191,h:191;']
+Pictures281.bmp - No Clock:
+negative35.bmp - No Clock:
+Pictures599.bmp - Dected Clock:
+['x:380,y:472 : w:49,h:49;']
+negative157.bmp - No Clock:
+Pictures378.bmp - No Clock:
+Pictures578.bmp - No Clock:
+Pictures41.bmp - No Clock:
+negative110.bmp - No Clock:
+Pictures449.bmp - No Clock:
+Pictures50.bmp - No Clock:
+Pictures214.bmp - No Clock:
+negative275.bmp - No Clock:
+Pictures269.bmp - No Clock:
+negative375.bmp - No Clock:
+negative405.bmp - No Clock:
+Pictures631.bmp - Dected Clock:
+['x:422,y:186 : w:97,h:97;']
+negative3.bmp - No Clock:
+Pictures535.bmp - No Clock:
+Pictures280.bmp - No Clock:
+negative504.bmp - No Clock:
+negative576.bmp - No Clock:
+negative41.bmp - No Clock:
+Pictures70.bmp - Dected Clock:
+['x:421,y:229 : w:45,h:45;', 'x:235,y:348 : w:414,h:414;']
+negative9.bmp - No Clock:
+Pictures366.bmp - No Clock:
+Pictures32.bmp - No Clock:
+Pictures454.bmp - Dected Clock:
+['x:54,y:889 : w:225,h:225;']
+Pictures437.bmp - Dected Clock:
+['x:301,y:174 : w:33,h:33;', 'x:384,y:1033 : w:176,h:176;']
+Pictures589.bmp - No Clock:
+Pictures598.bmp - No Clock:
+negative356.bmp - No Clock:
+Pictures3.bmp - No Clock:
+negative656.bmp - No Clock:
+Pictures561.bmp - No Clock:
+Pictures597.bmp - No Clock:
+negative217.bmp - No Clock:
+negative309.bmp - No Clock:
+negative481.bmp - No Clock:
+Pictures440.bmp - No Clock:
+Pictures502.bmp - No Clock:
+negative52.bmp - No Clock:
+negative470.bmp - No Clock:
+Pictures81.bmp - No Clock:
+Pictures429.bmp - No Clock:
+Pictures539.bmp - No Clock:
+negative177.bmp - No Clock:
+negative533.bmp - No Clock:
+Pictures619.bmp - No Clock:
+Pictures241.bmp - No Clock:
+Pictures277.bmp - No Clock:
+Pictures379.bmp - No Clock:
+Pictures130.bmp - No Clock:
+negative222.bmp - No Clock:
+negative148.bmp - No Clock:
+negative648.bmp - No Clock:
+negative274.bmp - No Clock:
+negative22.bmp - No Clock:
+Pictures200.bmp - No Clock:
+Pictures385.bmp - No Clock:
+Pictures220.bmp - No Clock:
+Pictures282.bmp - No Clock:
+negative30.bmp - No Clock:
+Pictures499.bmp - No Clock:
+Pictures69.bmp - Dected Clock:
+['x:264,y:380 : w:346,h:346;']
+negative603.bmp - No Clock:
+negative315.bmp - No Clock:
+negative393.bmp - No Clock:
+Pictures213.bmp - Dected Clock:
+['x:101,y:714 : w:48,h:48;']
+Pictures509.bmp - No Clock:
+negative402.bmp - No Clock:
+Pictures66.bmp - Dected Clock:
+['x:174,y:350 : w:425,h:425;']
+negative339.bmp - No Clock:
+Pictures423.bmp - No Clock:
+Pictures577.bmp - Dected Clock:
+['x:343,y:1022 : w:233,h:233;']
+Pictures362.bmp - Dected Clock:
+['x:56,y:248 : w:526,h:526;']
+Pictures481.bmp - No Clock:
+Pictures118.bmp - Dected Clock:
+['x:501,y:848 : w:35,h:35;', 'x:602,y:580 : w:43,h:43;', 'x:643,y:1000 : w:61,h:61;']
+Pictures391.bmp - No Clock:
+Pictures482.bmp - Dected Clock:
+['x:210,y:883 : w:97,h:97;']
+negative600.bmp - No Clock:
+Pictures416.bmp - No Clock:
+Pictures427.bmp - No Clock:
+negative314.bmp - No Clock:
+negative625.bmp - No Clock:
+negative14.bmp - No Clock:
+Pictures103.bmp - No Clock:
+negative653.bmp - No Clock:
+negative50.bmp - No Clock:
+negative574.bmp - No Clock:
+Pictures143.bmp - Dected Clock:
+['x:257,y:449 : w:43,h:43;', 'x:508,y:574 : w:48,h:48;', 'x:602,y:866 : w:65,h:65;', 'x:378,y:743 : w:192,h:192;']
+negative588.bmp - No Clock:
+negative13.bmp - No Clock:
+Pictures225.bmp - Dected Clock:
+['x:220,y:583 : w:55,h:55;']
+negative437.bmp - No Clock:
+negative526.bmp - No Clock:
+Pictures586.bmp - Dected Clock:
+['x:382,y:49 : w:53,h:53;']
+negative138.bmp - No Clock:
+negative474.bmp - No Clock:
+Pictures566.bmp - Dected Clock:
+['x:606,y:1090 : w:39,h:39;']
+Pictures523.bmp - No Clock:
+Pictures428.bmp - No Clock:
+Pictures182.bmp - Dected Clock:
+['x:549,y:289 : w:71,h:71;']
+Pictures22.bmp - Dected Clock:
+['x:560,y:288 : w:84,h:84;']
+Pictures633.bmp - No Clock:
+Pictures318.bmp - No Clock:
+Pictures412.bmp - No Clock:
+negative11.bmp - No Clock:
+negative573.bmp - No Clock:
+Pictures647.bmp - No Clock:
+Pictures471.bmp - Dected Clock:
+['x:322,y:869 : w:90,h:90;', 'x:94,y:754 : w:184,h:184;']
+Pictures382.bmp - No Clock:
+negative623.bmp - No Clock:
+negative189.bmp - No Clock:
+negative90.bmp - No Clock:
+Pictures424.bmp - Dected Clock:
+['x:62,y:244 : w:76,h:76;']
+Pictures227.bmp - Dected Clock:
+['x:41,y:646 : w:160,h:160;']
+Pictures65.bmp - Dected Clock:
+['x:371,y:192 : w:42,h:42;', 'x:657,y:928 : w:46,h:46;']
+negative124.bmp - No Clock:
+negative389.bmp - No Clock:
+negative26.bmp - No Clock:
+Pictures463.bmp - Dected Clock:
+['x:382,y:334 : w:69,h:69;']
+Pictures7.bmp - No Clock:
+Pictures184.bmp - No Clock:
+Pictures607.bmp - No Clock:
+negative105.bmp - No Clock:
+Pictures594.bmp - Dected Clock:
+['x:578,y:478 : w:110,h:110;']
+Pictures642.bmp - No Clock:
+negative404.bmp - No Clock:
+negative171.bmp - No Clock:
+negative227.bmp - No Clock:
+Pictures319.bmp - Dected Clock:
+['x:560,y:200 : w:82,h:82;']
+negative639.bmp - No Clock:
+negative59.bmp - No Clock:
+Pictures194.bmp - No Clock:
+negative202.bmp - No Clock:
+negative448.bmp - No Clock:
+Pictures34.bmp - No Clock:
+Pictures19.bmp - No Clock:
+Pictures410.bmp - No Clock:
+Pictures426.bmp - No Clock:
+negative126.bmp - No Clock:
+negative370.bmp - No Clock:
+Pictures304.bmp - No Clock:
+negative593.bmp - No Clock:
+Pictures163.bmp - Dected Clock:
+['x:186,y:592 : w:51,h:51;']
+Pictures400.bmp - Dected Clock:
+['x:282,y:366 : w:35,h:35;', 'x:305,y:374 : w:42,h:42;', 'x:474,y:241 : w:41,h:41;', 'x:249,y:368 : w:46,h:46;']
+negative363.bmp - No Clock:
+Pictures355.bmp - No Clock:
+negative71.bmp - No Clock:
+Pictures536.bmp - No Clock:
+Pictures262.bmp - No Clock:
+Pictures363.bmp - No Clock:
+negative543.bmp - No Clock:
+Pictures615.bmp - No Clock:
+negative278.bmp - No Clock:
+negative491.bmp - No Clock:
+Pictures322.bmp - Dected Clock:
+['x:564,y:147 : w:38,h:38;']
+negative399.bmp - No Clock:
+Pictures159.bmp - No Clock:
+negative374.bmp - No Clock:
+negative544.bmp - No Clock:
+Pictures174.bmp - Dected Clock:
+['x:360,y:283 : w:58,h:58;']
+Pictures365.bmp - No Clock:
+negative482.bmp - No Clock:
+negative151.bmp - No Clock:
+negative352.bmp - No Clock:
+Pictures526.bmp - No Clock:
+negative561.bmp - No Clock:
+negative113.bmp - No Clock:
+Pictures576.bmp - No Clock:
+Pictures538.bmp - No Clock:
+negative170.bmp - No Clock:
+negative163.bmp - No Clock:
+Pictures417.bmp - No Clock:
+negative28.bmp - No Clock:
+Pictures169.bmp - Dected Clock:
+['x:503,y:318 : w:83,h:83;']
+negative557.bmp - Dected Clock:
+['x:644,y:800 : w:45,h:45;']
+negative564.bmp - No Clock:
+Pictures187.bmp - No Clock:
+Pictures97.bmp - Dected Clock:
+['x:648,y:422 : w:44,h:44;']
+Pictures147.bmp - Dected Clock:
+['x:612,y:916 : w:67,h:67;', 'x:389,y:802 : w:184,h:184;']
+Pictures284.bmp - No Clock:
+Pictures126.bmp - Dected Clock:
+['x:391,y:753 : w:256,h:256;']
+negative336.bmp - No Clock:
+negative377.bmp - No Clock:
+negative95.bmp - No Clock:
+negative115.bmp - No Clock:
+Pictures320.bmp - Dected Clock:
+['x:643,y:228 : w:36,h:36;', 'x:412,y:161 : w:62,h:62;']
+Pictures674.bmp - No Clock:
+Pictures404.bmp - Dected Clock:
+['x:327,y:339 : w:34,h:34;', 'x:335,y:350 : w:48,h:48;']
+negative386.bmp - No Clock:
+negative630.bmp - No Clock:
+negative137.bmp - No Clock:
+negative343.bmp - No Clock:
+Pictures172.bmp - No Clock:
+negative206.bmp - No Clock:
+Pictures542.bmp - Dected Clock:
+['x:488,y:814 : w:47,h:47;', 'x:622,y:1106 : w:51,h:51;', 'x:374,y:945 : w:223,h:223;']
+Pictures479.bmp - No Clock:
+Pictures356.bmp - No Clock:
+Pictures455.bmp - Dected Clock:
+['x:33,y:900 : w:228,h:228;']
+Pictures475.bmp - Dected Clock:
+['x:66,y:860 : w:191,h:191;']
+negative282.bmp - No Clock:
+negative392.bmp - No Clock:
+Pictures386.bmp - No Clock:
+Pictures78.bmp - No Clock:
+negative284.bmp - No Clock:
+negative246.bmp - No Clock:
+Pictures605.bmp - Dected Clock:
+['x:420,y:17 : w:88,h:88;']
+Pictures316.bmp - No Clock:
+Pictures267.bmp - Dected Clock:
+['x:317,y:277 : w:52,h:52;', 'x:50,y:88 : w:176,h:176;']
+negative241.bmp - No Clock:
+Pictures630.bmp - Dected Clock:
+['x:592,y:216 : w:92,h:92;']
+negative220.bmp - No Clock:
+Pictures680.bmp - No Clock:
+negative294.bmp - No Clock:
+Pictures109.bmp - No Clock:
+Pictures91.bmp - No Clock:
+Pictures448.bmp - No Clock:
+Pictures90.bmp - No Clock:
+Pictures648.bmp - No Clock:
+Pictures142.bmp - Dected Clock:
+['x:602,y:859 : w:64,h:64;']
+negative436.bmp - No Clock:
+negative153.bmp - No Clock:
+negative509.bmp - No Clock:
+Pictures211.bmp - Dected Clock:
+['x:389,y:699 : w:72,h:72;']
+negative479.bmp - No Clock:
+negative516.bmp - No Clock:
+Pictures115.bmp - No Clock:
+negative299.bmp - No Clock:
+negative586.bmp - No Clock:
+negative489.bmp - No Clock:
+Pictures625.bmp - No Clock:
+Pictures498.bmp - No Clock:
+negative94.bmp - No Clock:
+Pictures415.bmp - No Clock:
+negative604.bmp - No Clock:
+negative333.bmp - No Clock:
+negative517.bmp - No Clock:
+Pictures358.bmp - No Clock:
+Pictures354.bmp - Dected Clock:
+['x:420,y:351 : w:36,h:36;']
+Pictures61.bmp - No Clock:
+negative173.bmp - No Clock:
+negative493.bmp - No Clock:
+negative112.bmp - No Clock:
+Pictures160.bmp - No Clock:
+negative166.bmp - No Clock:
+Pictures120.bmp - No Clock:
+Pictures295.bmp - No Clock:
+Pictures205.bmp - Dected Clock:
+['x:268,y:82 : w:52,h:52;', 'x:408,y:122 : w:79,h:79;', 'x:28,y:578 : w:192,h:192;']
+Pictures45.bmp - Dected Clock:
+['x:349,y:660 : w:36,h:36;']
+Pictures210.bmp - Dected Clock:
+['x:18,y:594 : w:163,h:163;']
+negative152.bmp - No Clock:
+negative469.bmp - No Clock:
+negative636.bmp - No Clock:
+Pictures193.bmp - No Clock:
+Pictures411.bmp - No Clock:
+negative348.bmp - No Clock:
+Pictures39.bmp - Dected Clock:
+['x:652,y:255 : w:47,h:47;']
+Pictures185.bmp - No Clock:
+negative330.bmp - Dected Clock:
+['x:156,y:615 : w:55,h:55;']
+negative239.bmp - No Clock:
+Pictures272.bmp - Dected Clock:
+['x:362,y:376 : w:44,h:44;']
+negative486.bmp - No Clock:
+negative507.bmp - No Clock:
+Pictures218.bmp - No Clock:
+negative318.bmp - Dected Clock:
+['x:172,y:60 : w:103,h:103;']
+Pictures620.bmp - No Clock:
+Pictures294.bmp - Dected Clock:
+['x:29,y:282 : w:232,h:232;']
+Pictures469.bmp - Dected Clock:
+['x:478,y:297 : w:52,h:52;', 'x:120,y:738 : w:198,h:198;']
+negative401.bmp - No Clock:
+negative24.bmp - No Clock:
+Pictures480.bmp - No Clock:
+Pictures226.bmp - No Clock:
+negative61.bmp - No Clock:
+negative497.bmp - No Clock:
+negative498.bmp - No Clock:
+Pictures421.bmp - No Clock:
+negative503.bmp - No Clock:
+negative102.bmp - No Clock:
+negative230.bmp - No Clock:
+negative16.bmp - No Clock:
+negative273.bmp - No Clock:
+Pictures582.bmp - No Clock:
+Pictures501.bmp - No Clock:
