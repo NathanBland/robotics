@@ -1,0 +1,526 @@
+Pictures76.bmp:
+['x:249,y:749 : w:35,h:35;']:
+Pictures593.bmp:
+['x:572,y:479 : w:80,h:80;']:
+Pictures5.bmp:
+['x:403,y:295 : w:69,h:69;']:
+Pictures541.bmp:
+['x:485,y:827 : w:46,h:46;', 'x:624,y:1109 : w:57,h:57;']:
+negative329.bmp:
+['x:174,y:636 : w:55,h:55;']:
+negative326.bmp:
+['x:205,y:630 : w:52,h:52;']:
+Pictures543.bmp:
+['x:601,y:1089 : w:50,h:50;']:
+Pictures234.bmp:
+['x:133,y:624 : w:41,h:41;']:
+Pictures153.bmp:
+['x:491,y:940 : w:34,h:34;']:
+Pictures274.bmp:
+['x:192,y:855 : w:41,h:41;']:
+Pictures571.bmp:
+['x:82,y:799 : w:56,h:56;']:
+Pictures406.bmp:
+['x:348,y:231 : w:54,h:54;']:
+Pictures149.bmp:
+['x:652,y:990 : w:60,h:60;', 'x:420,y:870 : w:187,h:187;']:
+Pictures553.bmp:
+['x:475,y:1087 : w:34,h:34;']:
+Pictures616.bmp:
+['x:458,y:862 : w:41,h:41;']:
+Pictures373.bmp:
+['x:69,y:381 : w:34,h:34;', 'x:50,y:380 : w:41,h:41;']:
+Pictures457.bmp:
+['x:26,y:860 : w:197,h:197;']:
+Pictures632.bmp:
+['x:229,y:274 : w:49,h:49;']:
+Pictures405.bmp:
+['x:337,y:283 : w:45,h:45;', 'x:273,y:272 : w:55,h:55;']:
+Pictures236.bmp:
+['x:187,y:619 : w:38,h:38;']:
+Pictures275.bmp:
+['x:218,y:878 : w:45,h:45;']:
+Pictures552.bmp:
+['x:577,y:1016 : w:35,h:35;']:
+Pictures419.bmp:
+['x:204,y:120 : w:71,h:71;']:
+Pictures601.bmp:
+['x:275,y:304 : w:135,h:135;']:
+Pictures315.bmp:
+['x:484,y:200 : w:88,h:88;']:
+Pictures42.bmp:
+['x:505,y:262 : w:46,h:46;']:
+Pictures64.bmp:
+['x:382,y:174 : w:47,h:47;']:
+Pictures592.bmp:
+['x:491,y:581 : w:119,h:119;']:
+Pictures188.bmp:
+['x:504,y:298 : w:72,h:72;', 'x:556,y:1079 : w:123,h:123;']:
+Pictures474.bmp:
+['x:85,y:846 : w:190,h:190;']:
+Pictures151.bmp:
+['x:369,y:933 : w:77,h:77;', 'x:407,y:933 : w:234,h:234;']:
+Pictures162.bmp:
+['x:522,y:875 : w:142,h:142;']:
+Pictures168.bmp:
+['x:86,y:891 : w:239,h:239;']:
+negative563.bmp:
+['x:360,y:1074 : w:42,h:42;']:
+Pictures293.bmp:
+['x:147,y:319 : w:207,h:207;']:
+Pictures628.bmp:
+['x:406,y:233 : w:69,h:69;']:
+negative548.bmp:
+['x:651,y:1001 : w:56,h:56;']:
+Pictures678.bmp:
+['x:69,y:823 : w:46,h:46;']:
+negative549.bmp:
+['x:422,y:1020 : w:56,h:56;']:
+Pictures507.bmp:
+['x:423,y:532 : w:47,h:47;']:
+Pictures144.bmp:
+['x:626,y:891 : w:63,h:63;']:
+Pictures682.bmp:
+['x:499,y:387 : w:53,h:53;']:
+Pictures348.bmp:
+['x:411,y:281 : w:46,h:46;']:
+negative332.bmp:
+['x:75,y:590 : w:62,h:62;', 'x:19,y:122 : w:133,h:133;']:
+Pictures347.bmp:
+['x:228,y:683 : w:41,h:41;']:
+Pictures199.bmp:
+['x:436,y:736 : w:62,h:62;']:
+Pictures208.bmp:
+['x:85,y:698 : w:46,h:46;']:
+Pictures313.bmp:
+['x:301,y:168 : w:64,h:64;']:
+Pictures137.bmp:
+['x:634,y:1157 : w:52,h:52;']:
+Pictures57.bmp:
+['x:267,y:362 : w:384,h:384;']:
+Pictures425.bmp:
+['x:520,y:438 : w:45,h:45;', 'x:232,y:506 : w:73,h:73;']:
+Pictures330.bmp:
+['x:570,y:268 : w:69,h:69;', 'x:352,y:42 : w:116,h:116;']:
+negative494.bmp:
+['x:575,y:1173 : w:45,h:45;']:
+negative355.bmp:
+['x:611,y:57 : w:33,h:33;']:
+Pictures591.bmp:
+['x:456,y:657 : w:100,h:100;']:
+Pictures264.bmp:
+['x:173,y:1147 : w:37,h:37;', 'x:308,y:245 : w:57,h:57;', 'x:308,y:1168 : w:90,h:90;']:
+negative551.bmp:
+['x:407,y:1014 : w:52,h:52;']:
+negative492.bmp:
+['x:481,y:1175 : w:47,h:47;']:
+Pictures58.bmp:
+['x:452,y:221 : w:43,h:43;']:
+negative317.bmp:
+['x:186,y:67 : w:102,h:102;']:
+Pictures140.bmp:
+['x:463,y:439 : w:50,h:50;', 'x:644,y:843 : w:62,h:62;', 'x:413,y:698 : w:214,h:214;']:
+Pictures590.bmp:
+['x:235,y:761 : w:142,h:142;']:
+Pictures505.bmp:
+['x:416,y:536 : w:46,h:46;']:
+Pictures254.bmp:
+['x:106,y:1118 : w:41,h:41;', 'x:108,y:699 : w:50,h:50;']:
+Pictures564.bmp:
+['x:80,y:1027 : w:101,h:101;']:
+Pictures525.bmp:
+['x:367,y:1072 : w:41,h:41;']:
+Pictures341.bmp:
+['x:183,y:82 : w:275,h:275;']:
+Pictures256.bmp:
+['x:104,y:1117 : w:38,h:38;']:
+Pictures344.bmp:
+['x:128,y:13 : w:275,h:275;']:
+Pictures138.bmp:
+['x:490,y:363 : w:51,h:51;', 'x:423,y:657 : w:202,h:202;']:
+Pictures478.bmp:
+['x:2,y:818 : w:179,h:179;']:
+Pictures544.bmp:
+['x:418,y:762 : w:46,h:46;']:
+Pictures462.bmp:
+['x:41,y:806 : w:178,h:178;']:
+Pictures133.bmp:
+['x:353,y:521 : w:207,h:207;']:
+Pictures558.bmp:
+['x:28,y:730 : w:376,h:376;']:
+Pictures470.bmp:
+['x:101,y:750 : w:191,h:191;']:
+negative322.bmp:
+['x:106,y:163 : w:120,h:120;']:
+Pictures604.bmp:
+['x:304,y:103 : w:141,h:141;']:
+Pictures46.bmp:
+['x:331,y:646 : w:35,h:35;']:
+Pictures686.bmp:
+['x:346,y:802 : w:35,h:35;']:
+Pictures135.bmp:
+['x:435,y:602 : w:38,h:38;', 'x:654,y:693 : w:52,h:52;', 'x:408,y:559 : w:211,h:211;']:
+Pictures493.bmp:
+['x:585,y:520 : w:84,h:84;']:
+Pictures82.bmp:
+['x:535,y:421 : w:38,h:38;']:
+Pictures371.bmp:
+['x:100,y:407 : w:40,h:40;']:
+Pictures189.bmp:
+['x:286,y:878 : w:58,h:58;']:
+Pictures485.bmp:
+['x:84,y:936 : w:173,h:173;']:
+Pictures107.bmp:
+['x:266,y:704 : w:33,h:33;']:
+Pictures569.bmp:
+['x:67,y:1006 : w:90,h:90;']:
+Pictures595.bmp:
+['x:485,y:427 : w:120,h:120;']:
+Pictures402.bmp:
+['x:513,y:261 : w:42,h:42;', 'x:288,y:417 : w:46,h:46;']:
+Pictures268.bmp:
+['x:256,y:1167 : w:33,h:33;']:
+Pictures141.bmp:
+['x:641,y:852 : w:67,h:67;']:
+Pictures460.bmp:
+['x:28,y:832 : w:193,h:193;']:
+Pictures124.bmp:
+['x:636,y:993 : w:60,h:60;']:
+negative316.bmp:
+['x:205,y:99 : w:97,h:97;']:
+Pictures186.bmp:
+['x:478,y:278 : w:74,h:74;']:
+Pictures610.bmp:
+['x:512,y:784 : w:40,h:40;']:
+Pictures372.bmp:
+['x:58,y:396 : w:45,h:45;']:
+Pictures150.bmp:
+['x:441,y:918 : w:207,h:207;']:
+negative546.bmp:
+['x:429,y:997 : w:56,h:56;']:
+Pictures292.bmp:
+['x:575,y:490 : w:70,h:70;']:
+Pictures258.bmp:
+['x:105,y:1122 : w:41,h:41;']:
+Pictures563.bmp:
+['x:76,y:1015 : w:83,h:83;', 'x:9,y:764 : w:377,h:377;']:
+Pictures44.bmp:
+['x:369,y:670 : w:36,h:36;']:
+Pictures547.bmp:
+['x:527,y:1052 : w:38,h:38;', 'x:389,y:764 : w:44,h:44;']:
+negative328.bmp:
+['x:136,y:219 : w:126,h:126;']:
+Pictures369.bmp:
+['x:472,y:434 : w:53,h:53;']:
+negative485.bmp:
+['x:579,y:804 : w:72,h:72;']:
+Pictures403.bmp:
+['x:316,y:376 : w:35,h:35;', 'x:340,y:384 : w:46,h:46;', 'x:226,y:397 : w:45,h:45;']:
+Pictures453.bmp:
+['x:69,y:808 : w:245,h:245;']:
+Pictures443.bmp:
+['x:392,y:323 : w:82,h:82;']:
+Pictures259.bmp:
+['x:254,y:218 : w:59,h:59;']:
+Pictures332.bmp:
+['x:508,y:855 : w:57,h:57;']:
+Pictures23.bmp:
+['x:592,y:285 : w:88,h:88;']:
+Pictures33.bmp:
+['x:218,y:135 : w:167,h:167;']:
+Pictures222.bmp:
+['x:32,y:630 : w:176,h:176;']:
+Pictures273.bmp:
+['x:328,y:406 : w:40,h:40;']:
+Pictures111.bmp:
+['x:388,y:1092 : w:50,h:50;']:
+Pictures476.bmp:
+['x:78,y:847 : w:172,h:172;']:
+Pictures59.bmp:
+['x:458,y:210 : w:46,h:46;']:
+Pictures459.bmp:
+['x:33,y:832 : w:205,h:205;']:
+Pictures30.bmp:
+['x:539,y:268 : w:54,h:54;']:
+Pictures139.bmp:
+['x:162,y:956 : w:37,h:37;', 'x:416,y:669 : w:52,h:52;', 'x:633,y:812 : w:62,h:62;', 'x:393,y:692 : w:186,h:186;']:
+Pictures570.bmp:
+['x:316,y:835 : w:40,h:40;']:
+Pictures324.bmp:
+['x:445,y:191 : w:62,h:62;']:
+Pictures312.bmp:
+['x:94,y:736 : w:188,h:188;']:
+Pictures461.bmp:
+['x:34,y:822 : w:185,h:185;']:
+Pictures413.bmp:
+['x:295,y:149 : w:42,h:42;']:
+negative552.bmp:
+['x:388,y:1000 : w:52,h:52;']:
+Pictures136.bmp:
+['x:637,y:705 : w:61,h:61;', 'x:402,y:580 : w:202,h:202;']:
+Pictures47.bmp:
+['x:329,y:638 : w:37,h:37;']:
+negative323.bmp:
+['x:107,y:205 : w:111,h:111;']:
+Pictures71.bmp:
+['x:233,y:356 : w:418,h:418;']:
+Pictures508.bmp:
+['x:371,y:620 : w:47,h:47;']:
+Pictures148.bmp:
+['x:597,y:935 : w:64,h:64;']:
+negative550.bmp:
+['x:344,y:1052 : w:37,h:37;']:
+negative321.bmp:
+['x:124,y:152 : w:109,h:109;']:
+Pictures63.bmp:
+['x:396,y:166 : w:45,h:45;']:
+Pictures606.bmp:
+['x:350,y:351 : w:39,h:39;']:
+negative331.bmp:
+['x:107,y:596 : w:63,h:63;']:
+Pictures253.bmp:
+['x:172,y:695 : w:40,h:40;']:
+Pictures550.bmp:
+['x:154,y:654 : w:38,h:38;']:
+Pictures175.bmp:
+['x:46,y:484 : w:44,h:44;', 'x:464,y:954 : w:55,h:55;']:
+Pictures345.bmp:
+['x:510,y:193 : w:53,h:53;']:
+Pictures618.bmp:
+['x:482,y:902 : w:44,h:44;']:
+Pictures613.bmp:
+['x:310,y:765 : w:63,h:63;']:
+Pictures230.bmp:
+['x:218,y:642 : w:46,h:46;']:
+negative308.bmp:
+['x:402,y:66 : w:70,h:70;']:
+Pictures500.bmp:
+['x:309,y:1053 : w:41,h:41;', 'x:657,y:549 : w:54,h:54;']:
+Pictures4.bmp:
+['x:401,y:292 : w:73,h:73;']:
+Pictures467.bmp:
+['x:129,y:742 : w:208,h:208;']:
+Pictures464.bmp:
+['x:102,y:783 : w:176,h:176;']:
+Pictures396.bmp:
+['x:301,y:393 : w:38,h:38;']:
+Pictures401.bmp:
+['x:274,y:416 : w:45,h:45;']:
+negative324.bmp:
+['x:110,y:231 : w:114,h:114;']:
+Pictures132.bmp:
+['x:575,y:654 : w:64,h:64;', 'x:304,y:523 : w:232,h:232;']:
+Pictures68.bmp:
+['x:383,y:229 : w:45,h:45;', 'x:259,y:370 : w:332,h:332;']:
+Pictures664.bmp:
+['x:229,y:554 : w:38,h:38;', 'x:367,y:607 : w:42,h:42;', 'x:305,y:672 : w:102,h:102;']:
+Pictures166.bmp:
+['x:369,y:386 : w:61,h:61;', 'x:166,y:577 : w:61,h:61;', 'x:122,y:593 : w:72,h:72;']:
+Pictures146.bmp:
+['x:619,y:901 : w:64,h:64;', 'x:389,y:781 : w:193,h:193;']:
+Pictures326.bmp:
+['x:42,y:782 : w:40,h:40;']:
+Pictures112.bmp:
+['x:225,y:871 : w:30,h:30;']:
+Pictures540.bmp:
+['x:438,y:989 : w:43,h:43;', 'x:221,y:721 : w:41,h:41;', 'x:612,y:1123 : w:63,h:63;']:
+Pictures31.bmp:
+['x:583,y:277 : w:50,h:50;']:
+Pictures357.bmp:
+['x:443,y:410 : w:49,h:49;']:
+negative319.bmp:
+['x:142,y:104 : w:129,h:129;']:
+Pictures209.bmp:
+['x:364,y:678 : w:75,h:75;']:
+Pictures173.bmp:
+['x:50,y:840 : w:66,h:66;']:
+Pictures672.bmp:
+['x:526,y:574 : w:62,h:62;']:
+Pictures212.bmp:
+['x:93,y:716 : w:39,h:39;']:
+Pictures639.bmp:
+['x:242,y:264 : w:43,h:43;']:
+Pictures555.bmp:
+['x:494,y:1107 : w:34,h:34;']:
+Pictures657.bmp:
+['x:347,y:360 : w:48,h:48;']:
+Pictures24.bmp:
+['x:617,y:291 : w:80,h:80;']:
+negative495.bmp:
+['x:564,y:1158 : w:41,h:41;']:
+Pictures511.bmp:
+['x:421,y:708 : w:35,h:35;']:
+Pictures458.bmp:
+['x:21,y:850 : w:209,h:209;']:
+Pictures684.bmp:
+['x:506,y:363 : w:54,h:54;']:
+Pictures233.bmp:
+['x:205,y:202 : w:49,h:49;', 'x:149,y:636 : w:47,h:47;']:
+negative496.bmp:
+['x:551,y:1154 : w:39,h:39;']:
+Pictures367.bmp:
+['x:203,y:612 : w:160,h:160;']:
+Pictures637.bmp:
+['x:202,y:244 : w:40,h:40;']:
+Pictures602.bmp:
+['x:401,y:330 : w:50,h:50;']:
+Pictures658.bmp:
+['x:322,y:400 : w:98,h:98;']:
+Pictures649.bmp:
+['x:490,y:293 : w:132,h:132;']:
+Pictures119.bmp:
+['x:644,y:983 : w:62,h:62;']:
+negative483.bmp:
+['x:618,y:791 : w:67,h:67;']:
+Pictures546.bmp:
+['x:41,y:952 : w:91,h:91;']:
+Pictures556.bmp:
+['x:677,y:862 : w:17,h:17;', 'x:376,y:837 : w:39,h:39;']:
+Pictures96.bmp:
+['x:623,y:382 : w:34,h:34;']:
+Pictures134.bmp:
+['x:650,y:683 : w:52,h:52;', 'x:407,y:549 : w:208,h:208;']:
+Pictures296.bmp:
+['x:100,y:78 : w:304,h:304;']:
+Pictures183.bmp:
+['x:545,y:275 : w:71,h:71;']:
+Pictures349.bmp:
+['x:543,y:381 : w:64,h:64;']:
+negative547.bmp:
+['x:349,y:1054 : w:40,h:40;', 'x:420,y:1029 : w:56,h:56;']:
+Pictures414.bmp:
+['x:298,y:124 : w:51,h:51;']:
+Pictures473.bmp:
+['x:78,y:806 : w:204,h:204;']:
+Pictures73.bmp:
+['x:536,y:396 : w:56,h:56;']:
+negative569.bmp:
+['x:573,y:1067 : w:35,h:35;']:
+Pictures596.bmp:
+['x:344,y:393 : w:34,h:34;', 'x:350,y:423 : w:47,h:47;']:
+Pictures451.bmp:
+['x:321,y:170 : w:61,h:61;']:
+Pictures397.bmp:
+['x:310,y:364 : w:37,h:37;', 'x:343,y:368 : w:44,h:44;', 'x:293,y:388 : w:50,h:50;']:
+Pictures510.bmp:
+['x:418,y:670 : w:40,h:40;']:
+Pictures238.bmp:
+['x:216,y:624 : w:36,h:36;']:
+Pictures53.bmp:
+['x:351,y:242 : w:46,h:46;']:
+Pictures433.bmp:
+['x:395,y:225 : w:47,h:47;']:
+Pictures472.bmp:
+['x:288,y:326 : w:54,h:54;', 'x:67,y:779 : w:182,h:182;']:
+Pictures232.bmp:
+['x:539,y:1086 : w:66,h:66;']:
+Pictures145.bmp:
+['x:623,y:889 : w:64,h:64;', 'x:392,y:772 : w:191,h:191;']:
+Pictures599.bmp:
+['x:380,y:472 : w:49,h:49;']:
+Pictures631.bmp:
+['x:422,y:186 : w:97,h:97;']:
+Pictures70.bmp:
+['x:421,y:229 : w:45,h:45;', 'x:235,y:348 : w:414,h:414;']:
+Pictures454.bmp:
+['x:54,y:889 : w:225,h:225;']:
+Pictures437.bmp:
+['x:301,y:174 : w:33,h:33;', 'x:384,y:1033 : w:176,h:176;']:
+Pictures69.bmp:
+['x:264,y:380 : w:346,h:346;']:
+Pictures213.bmp:
+['x:101,y:714 : w:48,h:48;']:
+Pictures66.bmp:
+['x:174,y:350 : w:425,h:425;']:
+Pictures577.bmp:
+['x:343,y:1022 : w:233,h:233;']:
+Pictures362.bmp:
+['x:56,y:248 : w:526,h:526;']:
+Pictures118.bmp:
+['x:501,y:848 : w:35,h:35;', 'x:602,y:580 : w:43,h:43;', 'x:643,y:1000 : w:61,h:61;']:
+Pictures482.bmp:
+['x:210,y:883 : w:97,h:97;']:
+Pictures143.bmp:
+['x:257,y:449 : w:43,h:43;', 'x:508,y:574 : w:48,h:48;', 'x:602,y:866 : w:65,h:65;', 'x:378,y:743 : w:192,h:192;']:
+Pictures225.bmp:
+['x:220,y:583 : w:55,h:55;']:
+Pictures586.bmp:
+['x:382,y:49 : w:53,h:53;']:
+Pictures566.bmp:
+['x:606,y:1090 : w:39,h:39;']:
+Pictures182.bmp:
+['x:549,y:289 : w:71,h:71;']:
+Pictures22.bmp:
+['x:560,y:288 : w:84,h:84;']:
+Pictures471.bmp:
+['x:322,y:869 : w:90,h:90;', 'x:94,y:754 : w:184,h:184;']:
+Pictures424.bmp:
+['x:62,y:244 : w:76,h:76;']:
+Pictures227.bmp:
+['x:41,y:646 : w:160,h:160;']:
+Pictures65.bmp:
+['x:371,y:192 : w:42,h:42;', 'x:657,y:928 : w:46,h:46;']:
+Pictures463.bmp:
+['x:382,y:334 : w:69,h:69;']:
+Pictures594.bmp:
+['x:578,y:478 : w:110,h:110;']:
+Pictures319.bmp:
+['x:560,y:200 : w:82,h:82;']:
+Pictures163.bmp:
+['x:186,y:592 : w:51,h:51;']:
+Pictures400.bmp:
+['x:282,y:366 : w:35,h:35;', 'x:305,y:374 : w:42,h:42;', 'x:474,y:241 : w:41,h:41;', 'x:249,y:368 : w:46,h:46;']:
+Pictures322.bmp:
+['x:564,y:147 : w:38,h:38;']:
+Pictures174.bmp:
+['x:360,y:283 : w:58,h:58;']:
+Pictures169.bmp:
+['x:503,y:318 : w:83,h:83;']:
+negative557.bmp:
+['x:644,y:800 : w:45,h:45;']:
+Pictures97.bmp:
+['x:648,y:422 : w:44,h:44;']:
+Pictures147.bmp:
+['x:612,y:916 : w:67,h:67;', 'x:389,y:802 : w:184,h:184;']:
+Pictures126.bmp:
+['x:391,y:753 : w:256,h:256;']:
+Pictures320.bmp:
+['x:643,y:228 : w:36,h:36;', 'x:412,y:161 : w:62,h:62;']:
+Pictures404.bmp:
+['x:327,y:339 : w:34,h:34;', 'x:335,y:350 : w:48,h:48;']:
+Pictures542.bmp:
+['x:488,y:814 : w:47,h:47;', 'x:622,y:1106 : w:51,h:51;', 'x:374,y:945 : w:223,h:223;']:
+Pictures455.bmp:
+['x:33,y:900 : w:228,h:228;']:
+Pictures475.bmp:
+['x:66,y:860 : w:191,h:191;']:
+Pictures605.bmp:
+['x:420,y:17 : w:88,h:88;']:
+Pictures267.bmp:
+['x:317,y:277 : w:52,h:52;', 'x:50,y:88 : w:176,h:176;']:
+Pictures630.bmp:
+['x:592,y:216 : w:92,h:92;']:
+Pictures142.bmp:
+['x:602,y:859 : w:64,h:64;']:
+Pictures211.bmp:
+['x:389,y:699 : w:72,h:72;']:
+Pictures354.bmp:
+['x:420,y:351 : w:36,h:36;']:
+Pictures205.bmp:
+['x:268,y:82 : w:52,h:52;', 'x:408,y:122 : w:79,h:79;', 'x:28,y:578 : w:192,h:192;']:
+Pictures45.bmp:
+['x:349,y:660 : w:36,h:36;']:
+Pictures210.bmp:
+['x:18,y:594 : w:163,h:163;']:
+Pictures39.bmp:
+['x:652,y:255 : w:47,h:47;']:
+negative330.bmp:
+['x:156,y:615 : w:55,h:55;']:
+Pictures272.bmp:
+['x:362,y:376 : w:44,h:44;']:
+negative318.bmp:
+['x:172,y:60 : w:103,h:103;']:
+Pictures294.bmp:
+['x:29,y:282 : w:232,h:232;']:
+Pictures469.bmp:
+['x:478,y:297 : w:52,h:52;', 'x:120,y:738 : w:198,h:198;']:
